@@ -1,3 +1,3 @@
 # GuessTheNumber
 
-mini game where you have to guess a number between 1 to 20 in order to win the game.
+a mini game where are expected to correctly guess a number between 1 to 20 in order for you to win the game.
